@@ -1,0 +1,20 @@
+div { 
+	border: 0px solid blue;
+ }
+
+ #banner {
+ 	background-image: url(web.jpeg);
+ 	background-size: center;
+ 	height: 600px;
+ 	background-repeat: no-repeat;
+
+ }
+
+#nav {
+	background-color: black;
+}
+
+
+#navlink {
+	color: white;
+}
